@@ -8,4 +8,5 @@ def square_array(array)
   # squared
 
   squared.collect {|x| x**2}
+  squared
 end
